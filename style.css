@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background: url("https://avatars.mds.yandex.net/i?id=8d1b367ad3a4f1bc43a1d746c2a6efc2_l-7543473-images-thumbs&n=13&w=440&h=260");
+}
+
+h1 {
+    text-align: center;
+}
+
+iframe {
+    box-shadow: 0px 0px 10px 5px black;
+    border: 2px solid rgb(15, 113, 183);
+}
+
+span {
+    font-weight: bolder;
+    color: rgb(15, 113, 183);
+}
+
+.videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+header {
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+}
+
+header img {
+    width: 130px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border: 2px dashed black;
+    margin: 5px;
+}
